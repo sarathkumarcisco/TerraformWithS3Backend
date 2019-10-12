@@ -24,3 +24,7 @@ Step 2: Run command "terraform plan" to see output which is going to be executed
 Step 5: Run command "terraform apply" to actually create terraform resources
 
 Step 6: Run command "terraform destroy" to destroy created resources.
+
+
+
+URL:// https://medium.com/@mitesh_shamra/state-management-with-terraform-9f13497e54cf
